@@ -1,6 +1,6 @@
 # wyag: Write Yourself a Git
 
-This project is an implementation of a Git-like version control system in Python. It's designed to help understand the internals of Git by recreating its core functionality. Huge thanks to Thibault Polge and his article https://wyag.thb.lt/ for making this happen
+This project is an implementation of a Git-like version control system in Python. It's designed to help understand the internals of Git by recreating its core functionality. Huge thanks to Thibault Polge and his article https://wyag.thb.lt/ for making this happen! 
 
 ## Features
 
@@ -11,7 +11,6 @@ This project is an implementation of a Git-like version control system in Python
 - View commit logs
 - Check the status of the working directory
 - Ignore files using .gitignore
-- And more...
 
 ## Commands
 
@@ -33,5 +32,4 @@ The following commands are implemented:
 - `show-ref`: List references
 - `status`: Show the working tree status
 - `tag`: List and create tags
-
 
